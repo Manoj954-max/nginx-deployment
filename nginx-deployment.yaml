@@ -28,3 +28,4 @@ spec:
   selector:
     app: nginx-app
   type: LoadBalancer
+
